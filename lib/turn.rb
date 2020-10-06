@@ -1,4 +1,5 @@
-=ask for input
+=begin 
+ask for input
 get input
 convert input to index
 if index is valid
@@ -7,3 +8,12 @@ if index is valid
 else
   ask for input again until you get a valid input
 =end
+
+def display_board()
+end
+
+def valid_move?()
+end
+
+def position_taken?()
+end
