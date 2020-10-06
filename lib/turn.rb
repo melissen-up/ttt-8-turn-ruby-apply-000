@@ -4,6 +4,7 @@ def turn(board)
   valid_move?(board, index)
   if valid_move? == TRUE
     input_to_index
+    puts display_board
   else
     
 
