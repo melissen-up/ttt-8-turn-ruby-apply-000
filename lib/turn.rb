@@ -1,3 +1,10 @@
+def turn(board)
+  puts "Please enter 1-9:"
+end
+
+
+
+
 # code for the display board 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
