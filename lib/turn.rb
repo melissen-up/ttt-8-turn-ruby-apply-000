@@ -6,6 +6,7 @@ def turn(board)
     input_to_index
     puts display_board
   else
+    puts "Please enter 1-9:"
     
 
 end
