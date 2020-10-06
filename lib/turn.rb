@@ -3,6 +3,8 @@ def turn(board)
   user_input = gets.chomp
   valid_move?(board, index)
   if valid_move? == TRUE
+    input_to_index
+  else
     
 
 end
