@@ -51,4 +51,3 @@ def position_taken?(board, index)
   else
     return TRUE
   end
-end
